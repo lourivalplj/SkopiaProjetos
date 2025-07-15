@@ -14,3 +14,8 @@ Não existe necessidade de alterar projetos?
 Quais dados adicionais poderiam ser incluídos em projetos?
 
 
+PONTOS DE MELHORIA
+
+Melhor gerenciamento de projetos.
+Expandir o sistema para integração com um sistema de tickets.
+Outros tipos de relatórios.
